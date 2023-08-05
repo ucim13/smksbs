@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #106eea;
+  color: #c1000a;
   text-decoration: none;
 }
 
 a:hover {
-  color: #3b8af2;
+  color: #ec000c;
   text-decoration: none;
 }
 
@@ -63,6 +63,7 @@ h6 {
   margin-left: 10px;
   margin-right: 10px;
   padding-left: 10px;
+  font-size: 20px;
   border-bottom: var(--bs-nav-underline-border-width) solid transparent;
   border-bottom-color: currentcolor;
 }
@@ -72,6 +73,7 @@ h6 {
 .navunderline .nav-link.active,
 .navunderline .show > .nav-link {
   font-weight: 700;
+  font-size: 20px;
   color: var(--bs-nav-underline-link-active-color);
   border-bottom-color: currentcolor;
 }
@@ -122,7 +124,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #106eea;
+  background: #c1000a;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -136,7 +138,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #3284f1;
+  background: #ec000c;
   color: #fff;
 }
 
@@ -295,7 +297,7 @@ h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #106eea;
+  background-color: #c1000a;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -312,7 +314,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #106eea;
+  color: #c1000a;
 }
 
 .navbar .dropdown ul {
@@ -346,7 +348,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #106eea;
+  color: #c1000a;
 }
 
 .navbar .dropdown:hover>ul {
@@ -455,7 +457,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #106eea;
+  color: #c1000a;
 }
 
 .navbar-mobile .getstarted,
@@ -490,7 +492,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #106eea;
+  color: #c1000a;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -571,7 +573,7 @@ h6 {
 }
 
 #hero .btn-watch-video i {
-  color: #106eea;
+  color: #c1000a;
   font-size: 32px;
   transition: 0.3s;
   line-height: 0;
@@ -579,11 +581,11 @@ h6 {
 }
 
 #hero .btn-watch-video:hover {
-  color: #106eea;
+  color: #c1000a;
 }
 
 #hero .btn-watch-video:hover i {
-  color: #3b8af2;
+  color: #c1000a;
 }
 
 @media (min-width: 1024px) {
@@ -644,7 +646,7 @@ section {
   padding: 8px 20px;
   margin: 0;
   background: #e7f1fd;
-  color: #106eea;
+  color: #c1000a;
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
@@ -657,7 +659,7 @@ section {
 }
 
 .section-title h3 span {
-  color: #106eea;
+  color: #c1000a;
 }
 
 .section-title p {
@@ -753,7 +755,7 @@ section {
 }
 
 .featured-services .icon-box:hover::before {
-  background: #106eea;
+  background: #c1000a;
   top: 0;
   border-radius: 0px;
 }
@@ -765,7 +767,7 @@ section {
 .featured-services .icon i {
   font-size: 48px;
   line-height: 1;
-  color: #106eea;
+  color: #c1000a;
   transition: all 0.3s ease-in-out;
 }
 
@@ -823,7 +825,7 @@ section {
   font-size: 24px;
   padding: 20px;
   margin-right: 15px;
-  color: #106eea;
+  color: #c1000a;
   border-radius: 50px;
 }
 
@@ -874,7 +876,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #106eea;
+  background-color:#c1000a;
 }
 
 /*--------------------------------------------------------------
@@ -1141,7 +1143,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #106eea;
+  color: #c1000a;
 }
 
 .portfolio #portfolio-flters li:last-child {
