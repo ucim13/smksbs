@@ -64,7 +64,7 @@ h6 {
   margin-right: 10px;
   padding-left: 10px;
   font-size: 20px;
-  color: #c1000a;
+  color: #898989;
   border-bottom: var(--bs-nav-underline-border-width) solid transparent;
   border-bottom-color: currentcolor;
 }
@@ -76,7 +76,7 @@ h6 {
   font-weight: 700;
   font-size: 20px;
   color: var(--bs-nav-underline-link-active-color);
-  border-bottom-color: currentcolor;
+  border-bottom-color: #c1000a;
 }
 
 
