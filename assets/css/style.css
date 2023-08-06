@@ -79,7 +79,10 @@ h6 {
   border-bottom-color: #c1000a;
 }
 
-
+.blogzoom :hover{
+  transition: 0.5s;
+transform: scale(1.02);
+}
 
 /*--------------------------------------------------------------
 # Clients
