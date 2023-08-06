@@ -82,6 +82,9 @@ h6 {
   background: #c1000a ;
   color: #fff;
 }
+#btn-merah .btn-merah :hover{
+  background: #c1000a;
+}
 #elzoom :hover{
   transition: 0.5s;
 transform: scale(1.01);
