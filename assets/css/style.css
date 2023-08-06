@@ -78,10 +78,13 @@ h6 {
   color: var(--bs-nav-underline-link-active-color);
   border-bottom-color: #c1000a;
 }
-
-.blogzoom :hover{
+.btn-merah{
+  background: #c1000a ;
+  color: #fff;
+}
+#elzoom :hover{
   transition: 0.5s;
-transform: scale(1.08);
+transform: scale(1.01);
 }
 
 /*--------------------------------------------------------------
